@@ -6,7 +6,8 @@ import java.util.Comparator;
  * CustomList упорядоченная коллекция, в которой пользователь может точно контролировать,
  * в какое место в списке вставляется каждый элемент.
  * Пользователь может получать доступ к элементам по их целочисленному индексу (позиции в списке).
- *
+ * @author Usenina Maria
+ * @link <a href="https://github.com/UseninaMaria">...</a>
  * @param <E> тип элементов в списке
  */
 public interface CustomList<E> {

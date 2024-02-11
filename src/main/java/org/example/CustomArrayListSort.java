@@ -4,6 +4,8 @@ import java.util.Comparator;
 
 /**
  * Класс CustomArrayListSort предоставляет методы сортировки объектов CustomList с использованием алгоритма быстрой сортировки.
+ * @author Usenina Maria
+ * @link <a href="https://github.com/UseninaMaria">...</a>
  */
 public class CustomArrayListSort {
     /**
